@@ -1,0 +1,6 @@
+{
+	"public_dir":"public/",
+
+	"http_host":"localhost",
+	"http_port":"1337"
+}

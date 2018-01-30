@@ -1,0 +1,18 @@
+{
+    "name": "NekoPoi",
+    "version": "1.0.0",
+    "author": {
+        "name": "Muhammad Iqbal Rifai",
+        "email": "iqbal.rifai@mail.com
+    },
+    "engines": {
+        "node": "0.10.12"
+    },
+    "dependencies": {
+        "express": "3.3.1",
+        "mongodb": "1.3.10",
+        "sockjs": "0.3.7",
+	    "jade": "0.35.0",
+        "redis": "*"
+    }
+}
